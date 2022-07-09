@@ -1,0 +1,57 @@
+.main-div {}
+
+.main {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    padding: 30px 0px;
+}
+
+.main::-webkit-scrollbar {
+    display: none;
+}
+
+.title-box {
+    margin: 12px;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: rgb(10, 0, 0) 0px 10px 20px, rgba(0, 0, 0, 0.984) 0px 6px 6px;
+}
+
+.main-card {
+    box-shadow: rgba(255, 255, 255, 0.19) 0px 10px 20px, rgba(255, 254, 254, 0.23) 0px 6px 6px;
+    margin-right: 10px;
+    border-radius: 5px;
+    transition: ease 0.1s;
+}
+
+.poster {
+    width: 100px;
+    object-fit: contain;
+    transition: ease 0.1s;
+    border-radius: 5px;
+    margin-bottom: -6px;
+}
+
+.poster:hover {
+    transform: scale(1.1, 1.1);
+}
+
+.posterlg {
+    width: 180px;
+    object-fit: contain;
+    transition: ease 0.1s;
+    border-radius: 5px;
+    margin-bottom: -6px;
+}
+
+.posterlg:hover {
+    transform: scale(1.1, 1.1);
+}

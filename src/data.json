@@ -1,0 +1,1732 @@
+{
+    "data": {
+        "page": 1,
+        "results": [{
+                "backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
+                "first_air_date": "2022-06-08",
+                "genre_ids": [
+                    10765,
+                    10759,
+                    35
+                ],
+                "id": 92782,
+                "name": "Ms. Marvel",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Ms. Marvel",
+                "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+                "popularity": 2328.568,
+                "poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
+                "vote_average": 7.6,
+                "vote_count": 236
+            },
+            {
+                "backdrop_path": null,
+                "first_air_date": "2022-05-30",
+                "genre_ids": [
+                    35,
+                    10765
+                ],
+                "id": 152296,
+                "name": "Love in 40 Days",
+                "origin_country": [
+                    "PH"
+                ],
+                "original_language": "tl",
+                "original_name": "Love in 40 Days",
+                "overview": "After getting involved in a fatal car crash, a competitive career woman arrives in an uncanny purgatory. While settling her unfinished businesses as a lingering spirit, she meets and finds her soulmate in a rebellious scion with a third eye.",
+                "popularity": 1476.958,
+                "poster_path": "/7cdnr3Bu728ukVBDMcOZ8zLrwOt.jpg",
+                "vote_average": 2,
+                "vote_count": 1
+            },
+            {
+                "backdrop_path": "/1WX8kxIIECPNAqbieVurqfpjxoo.jpg",
+                "first_air_date": "2022-05-30",
+                "genre_ids": [
+                    35,
+                    10759,
+                    10766
+                ],
+                "id": 197189,
+                "name": "Cara e Coragem",
+                "origin_country": [
+                    "BR"
+                ],
+                "original_language": "pt",
+                "original_name": "Cara e Coragem",
+                "overview": "",
+                "popularity": 1470.212,
+                "poster_path": "/8CXbCCGiJxi4AXPBQ1QPrehMIGG.jpg",
+                "vote_average": 5.8,
+                "vote_count": 6
+            },
+            {
+                "backdrop_path": "/ey7d70Jqf17SsIsE8fZM0YasZmZ.jpg",
+                "first_air_date": "2022-05-16",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 135647,
+                "name": "2 Good 2 Be True",
+                "origin_country": [
+                    "PH"
+                ],
+                "original_language": "tl",
+                "original_name": "2 Good 2 Be True",
+                "overview": "Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate. But both of them are hiding their true personas.",
+                "popularity": 1389.238,
+                "poster_path": "/2Wf5ySCPcnp8lRhbSD7jt0YLz5A.jpg",
+                "vote_average": 7.8,
+                "vote_count": 45
+            },
+            {
+                "backdrop_path": "/zNugnnR5KEmq9EzLcl0Me1UmHYk.jpg",
+                "first_air_date": "2022-04-09",
+                "genre_ids": [
+                    16,
+                    35,
+                    10759,
+                    80
+                ],
+                "id": 120089,
+                "name": "SPY x FAMILY",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "SPY×FAMILY",
+                "overview": "Master spy Twilight is the best at what he does when it comes to going undercover on dangerous missions in the name of a better world. But when he receives the ultimate impossible assignment—get married and have a kid—he may finally be in over his head! Not one to depend on others, Twilight has his work cut out for him procuring both a wife and a child for his mission to infiltrate an elite private school. What he doesn't know is that the wife he's chosen is an assassin and the child he's adopted is a telepath!",
+                "popularity": 1357.699,
+                "poster_path": "/3r4LYFuXrg3G8fepysr4xSLWnQL.jpg",
+                "vote_average": 0,
+                "vote_count": 0
+            },
+            {
+                "backdrop_path": "/9tStcyCEBqsvW7qtvooDRlTfil2.jpg",
+                "first_air_date": "2022-06-15",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 204147,
+                "name": "Hello, My Shining Love",
+                "origin_country": [
+                    "CN"
+                ],
+                "original_language": "zh",
+                "original_name": "遇见璀璨的你",
+                "overview": "A story about two exemplary individuals who are aces in their respective fields. Bearing emotional scars from the past, they start on a journey of healing to discover their brightest selves.\n\nThe once seasoned powerhouse Dugu Ruonan hits rock bottom after being betrayed by her own artist, Song Zihao and other staff members. Unwilling to accept defeat, Ruonan vows to make a comeback one day. She pours her efforts into building up Sida and gets a second shot in the business. Along the way, she encounters Ji Mo, the sharp-tongued president of a company and their unexpected meeting paves the way for a romance.",
+                "popularity": 1171.542,
+                "poster_path": "/peJthw3XxpWdJPnuG6I0AXMOFB2.jpg",
+                "vote_average": 0,
+                "vote_count": 0
+            },
+            {
+                "backdrop_path": "/t7yguUnzfxuVqWH0kUqvYbMWZsX.jpg",
+                "first_air_date": "2022-06-24",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 197588,
+                "name": "Man Vs Bee",
+                "origin_country": [
+                    "GB"
+                ],
+                "original_language": "en",
+                "original_name": "Man Vs Bee",
+                "overview": "A man finds himself at war with a bee while house-sitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",
+                "popularity": 697.735,
+                "poster_path": "/74kkM7E5IymHl7ZS4XugP6YT3zU.jpg",
+                "vote_average": 7.4,
+                "vote_count": 119
+            },
+            {
+                "backdrop_path": "/ic7YfRS52N3m4oalxoOIT665C33.jpg",
+                "first_air_date": "2020-07-08",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 104877,
+                "name": "Love Is In The Air",
+                "origin_country": [
+                    "TR"
+                ],
+                "original_language": "tr",
+                "original_name": "Sen Çal Kapımı",
+                "overview": "Eda, who ties all her hopes to her education, confronts Serkan Bolat, who cuts off her international education scholarship and leaves her with high school diploma. Serkan Bolat offers Eda to give her scholarship back if she pretends to be his fiance for two months. Although Eda rejects the offer of this man as she hates him, she has to accept it when the conditions change. While pretending to be engaged, Serkan and Eda begin to experience a passionate, challenging relationship that will make them forget all they know right. Because love is difficult. And that's why it's amazing.",
+                "popularity": 548.891,
+                "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
+                "vote_average": 8.2,
+                "vote_count": 2458
+            },
+            {
+                "backdrop_path": "/rQ5pOJBSqWoRf9evZHkL8rzUD4n.jpg",
+                "first_air_date": "1989-12-17",
+                "genre_ids": [
+                    10751,
+                    16,
+                    35
+                ],
+                "id": 456,
+                "name": "The Simpsons",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Simpsons",
+                "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+                "popularity": 539.41,
+                "poster_path": "/tubgEpjTUA7t0kejVMBsNBZDarZ.jpg",
+                "vote_average": 8,
+                "vote_count": 7967
+            },
+            {
+                "backdrop_path": "/uDegLR5lpVqSnnMSQaaF76BkcZQ.jpg",
+                "first_air_date": "2022-06-29",
+                "genre_ids": [
+                    16,
+                    10759,
+                    35,
+                    10762
+                ],
+                "id": 114466,
+                "name": "Baymax!",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Baymax!",
+                "overview": "Return to the fantastical city of San Fransokyo where the affable, inflatable, inimitable healthcare companion robot, Baymax, sets out to do what he was programmed to do: help others.",
+                "popularity": 407.361,
+                "poster_path": "/muzgYvvFniQnwiTdAvfMCEkHsT4.jpg",
+                "vote_average": 8.2,
+                "vote_count": 39
+            },
+            {
+                "backdrop_path": "/eGAOc17X55kIVjhPhflRbi8DrgF.jpg",
+                "first_air_date": "2022-06-06",
+                "genre_ids": [
+                    10766,
+                    35,
+                    18
+                ],
+                "id": 202740,
+                "name": "Lua de Mel",
+                "origin_country": [
+                    "PT"
+                ],
+                "original_language": "pt",
+                "original_name": "Lua de Mel",
+                "overview": "",
+                "popularity": 297.058,
+                "poster_path": "/8lIzd4bSU1xoWwcFihI3BzeWsz3.jpg",
+                "vote_average": 0,
+                "vote_count": 0
+            },
+            {
+                "backdrop_path": "/yqbTWmaP4fdnrbgwPQDHITktyOE.jpg",
+                "first_air_date": "2019-01-11",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 81356,
+                "name": "Sex Education",
+                "origin_country": [
+                    "GB"
+                ],
+                "original_language": "en",
+                "original_name": "Sex Education",
+                "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+                "popularity": 296.334,
+                "poster_path": "/8j12tohv1NBZNmpU93f47sAKBbw.jpg",
+                "vote_average": 8.4,
+                "vote_count": 5708
+            },
+            {
+                "backdrop_path": "/zbBNp4djy9dGOfMzVBQoP1ZAdET.jpg",
+                "first_air_date": "2017-06-19",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 72637,
+                "name": "Once",
+                "origin_country": [
+                    "AR"
+                ],
+                "original_language": "es",
+                "original_name": "O11CE",
+                "overview": "The series revolves around Gabo, a soccer-loving teenager who, upon receiving a scholarship from the prestigious Sports Academic Institute (IAD) of Buenos Aires, will see his dream of playing at Los Halcones Dorados, the renowned amateur team of the school, and also his longing to become a professional footballer.",
+                "popularity": 256.89,
+                "poster_path": "/d4vPg3QsTJJh6C5MHARTb5CyqOu.jpg",
+                "vote_average": 8.7,
+                "vote_count": 1129
+            },
+            {
+                "backdrop_path": "/8thc2UqR6Fg7iBCcco3M8LUhytl.jpg",
+                "first_air_date": "2004-10-04",
+                "genre_ids": [
+                    35,
+                    10766,
+                    18
+                ],
+                "id": 12637,
+                "name": "Rebelde",
+                "origin_country": [
+                    "MX"
+                ],
+                "original_language": "es",
+                "original_name": "Rebelde",
+                "overview": "Six teenagers with different lives and personalities attend a prominent private school with only one thing in common: their vocation and passion for music.",
+                "popularity": 254.059,
+                "poster_path": "/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg",
+                "vote_average": 8.4,
+                "vote_count": 4783
+            },
+            {
+                "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+                "first_air_date": "2010-09-06",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 31132,
+                "name": "Regular Show",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Regular Show",
+                "overview": "Two bored groundskeepers, Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) are best friends who spend their days trying to entertain themselves by any means necessary, much to the displeasure of their boss. Their everyday pursuits often lead to things spiraling out of control and into the surreal.",
+                "popularity": 247.194,
+                "poster_path": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+                "vote_average": 8.8,
+                "vote_count": 1483
+            },
+            {
+                "backdrop_path": "/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+                "first_air_date": "2013-12-02",
+                "genre_ids": [
+                    16,
+                    35,
+                    10765,
+                    10759
+                ],
+                "id": 60625,
+                "name": "Rick and Morty",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Rick and Morty",
+                "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+                "popularity": 219.243,
+                "poster_path": "/sGVCWtLG37mLOhl11qQVrjKsDzx.jpg",
+                "vote_average": 8.8,
+                "vote_count": 6504
+            },
+            {
+                "backdrop_path": "/wvdiTDDBxI0lix4Wbc2qePfgkA2.jpg",
+                "first_air_date": "2021-08-31",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 107113,
+                "name": "Only Murders in the Building",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Only Murders in the Building",
+                "overview": "Three strangers who share an obsession with true crime suddenly find themselves wrapped up in one.",
+                "popularity": 212.622,
+                "poster_path": "/ArsVbYhS6DiFJtRAlV8ytAauNlp.jpg",
+                "vote_average": 8.6,
+                "vote_count": 647
+            },
+            {
+                "backdrop_path": "/41neXsH222hV2zrsTyw8h7javon.jpg",
+                "first_air_date": "1997-08-13",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 2190,
+                "name": "South Park",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "South Park",
+                "overview": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+                "popularity": 210.54,
+                "poster_path": "/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg",
+                "vote_average": 8.3,
+                "vote_count": 3012
+            },
+            {
+                "backdrop_path": "/5hXn70jlkIunjk8qddY26m9ieUn.jpg",
+                "first_air_date": "2022-03-25",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 195623,
+                "name": "Mi Tío",
+                "origin_country": [
+                    "ES"
+                ],
+                "original_language": "es",
+                "original_name": "Mi Tío",
+                "overview": "The journey of an unemployed amateur musician who reluctantly agrees to take care of his young nephew.",
+                "popularity": 204.887,
+                "poster_path": "/sDPNwSe63WACVlHap7un6AgbqgO.jpg",
+                "vote_average": 7,
+                "vote_count": 34
+            },
+            {
+                "backdrop_path": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+                "first_air_date": "1999-01-31",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 1434,
+                "name": "Family Guy",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Family Guy",
+                "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+                "popularity": 201.395,
+                "poster_path": "/9RBeCo8QSaoJLmmuzlwzVH3Hi12.jpg",
+                "vote_average": 7.2,
+                "vote_count": 3299
+            }
+        ],
+        "total_pages": 940,
+        "total_results": 18789
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "cache-control": "public, max-age=600",
+        "content-type": "application/json;charset=utf-8"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {
+            "FormData": null
+        },
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "baseURL": "https://api.themoviedb.org/3",
+        "method": "get",
+        "url": "/discover/tv?api_key=9789405fbe9dba7fa1a67b6aa8ddad3f&with_genres=35"
+    },
+    "request": {}
+}
+
+
+{
+    "data": {
+        "page": 1,
+        "results": [{
+                "backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
+                "first_air_date": "2022-06-08",
+                "genre_ids": [
+                    10765,
+                    10759,
+                    35
+                ],
+                "id": 92782,
+                "name": "Ms. Marvel",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Ms. Marvel",
+                "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+                "popularity": 2328.568,
+                "poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
+                "vote_average": 7.6,
+                "vote_count": 236
+            },
+            {
+                "backdrop_path": null,
+                "first_air_date": "2022-05-30",
+                "genre_ids": [
+                    35,
+                    10765
+                ],
+                "id": 152296,
+                "name": "Love in 40 Days",
+                "origin_country": [
+                    "PH"
+                ],
+                "original_language": "tl",
+                "original_name": "Love in 40 Days",
+                "overview": "After getting involved in a fatal car crash, a competitive career woman arrives in an uncanny purgatory. While settling her unfinished businesses as a lingering spirit, she meets and finds her soulmate in a rebellious scion with a third eye.",
+                "popularity": 1476.958,
+                "poster_path": "/7cdnr3Bu728ukVBDMcOZ8zLrwOt.jpg",
+                "vote_average": 2,
+                "vote_count": 1
+            },
+            {
+                "backdrop_path": "/1WX8kxIIECPNAqbieVurqfpjxoo.jpg",
+                "first_air_date": "2022-05-30",
+                "genre_ids": [
+                    35,
+                    10759,
+                    10766
+                ],
+                "id": 197189,
+                "name": "Cara e Coragem",
+                "origin_country": [
+                    "BR"
+                ],
+                "original_language": "pt",
+                "original_name": "Cara e Coragem",
+                "overview": "",
+                "popularity": 1470.212,
+                "poster_path": "/8CXbCCGiJxi4AXPBQ1QPrehMIGG.jpg",
+                "vote_average": 5.8,
+                "vote_count": 6
+            },
+            {
+                "backdrop_path": "/ey7d70Jqf17SsIsE8fZM0YasZmZ.jpg",
+                "first_air_date": "2022-05-16",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 135647,
+                "name": "2 Good 2 Be True",
+                "origin_country": [
+                    "PH"
+                ],
+                "original_language": "tl",
+                "original_name": "2 Good 2 Be True",
+                "overview": "Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate. But both of them are hiding their true personas.",
+                "popularity": 1389.238,
+                "poster_path": "/2Wf5ySCPcnp8lRhbSD7jt0YLz5A.jpg",
+                "vote_average": 7.8,
+                "vote_count": 45
+            },
+            {
+                "backdrop_path": "/zNugnnR5KEmq9EzLcl0Me1UmHYk.jpg",
+                "first_air_date": "2022-04-09",
+                "genre_ids": [
+                    16,
+                    35,
+                    10759,
+                    80
+                ],
+                "id": 120089,
+                "name": "SPY x FAMILY",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "SPY×FAMILY",
+                "overview": "Master spy Twilight is the best at what he does when it comes to going undercover on dangerous missions in the name of a better world. But when he receives the ultimate impossible assignment—get married and have a kid—he may finally be in over his head! Not one to depend on others, Twilight has his work cut out for him procuring both a wife and a child for his mission to infiltrate an elite private school. What he doesn't know is that the wife he's chosen is an assassin and the child he's adopted is a telepath!",
+                "popularity": 1357.699,
+                "poster_path": "/3r4LYFuXrg3G8fepysr4xSLWnQL.jpg",
+                "vote_average": 0,
+                "vote_count": 0
+            },
+            {
+                "backdrop_path": "/9tStcyCEBqsvW7qtvooDRlTfil2.jpg",
+                "first_air_date": "2022-06-15",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 204147,
+                "name": "Hello, My Shining Love",
+                "origin_country": [
+                    "CN"
+                ],
+                "original_language": "zh",
+                "original_name": "遇见璀璨的你",
+                "overview": "A story about two exemplary individuals who are aces in their respective fields. Bearing emotional scars from the past, they start on a journey of healing to discover their brightest selves.\n\nThe once seasoned powerhouse Dugu Ruonan hits rock bottom after being betrayed by her own artist, Song Zihao and other staff members. Unwilling to accept defeat, Ruonan vows to make a comeback one day. She pours her efforts into building up Sida and gets a second shot in the business. Along the way, she encounters Ji Mo, the sharp-tongued president of a company and their unexpected meeting paves the way for a romance.",
+                "popularity": 1171.542,
+                "poster_path": "/peJthw3XxpWdJPnuG6I0AXMOFB2.jpg",
+                "vote_average": 0,
+                "vote_count": 0
+            },
+            {
+                "backdrop_path": "/t7yguUnzfxuVqWH0kUqvYbMWZsX.jpg",
+                "first_air_date": "2022-06-24",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 197588,
+                "name": "Man Vs Bee",
+                "origin_country": [
+                    "GB"
+                ],
+                "original_language": "en",
+                "original_name": "Man Vs Bee",
+                "overview": "A man finds himself at war with a bee while house-sitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",
+                "popularity": 697.735,
+                "poster_path": "/74kkM7E5IymHl7ZS4XugP6YT3zU.jpg",
+                "vote_average": 7.4,
+                "vote_count": 119
+            },
+            {
+                "backdrop_path": "/ic7YfRS52N3m4oalxoOIT665C33.jpg",
+                "first_air_date": "2020-07-08",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 104877,
+                "name": "Love Is In The Air",
+                "origin_country": [
+                    "TR"
+                ],
+                "original_language": "tr",
+                "original_name": "Sen Çal Kapımı",
+                "overview": "Eda, who ties all her hopes to her education, confronts Serkan Bolat, who cuts off her international education scholarship and leaves her with high school diploma. Serkan Bolat offers Eda to give her scholarship back if she pretends to be his fiance for two months. Although Eda rejects the offer of this man as she hates him, she has to accept it when the conditions change. While pretending to be engaged, Serkan and Eda begin to experience a passionate, challenging relationship that will make them forget all they know right. Because love is difficult. And that's why it's amazing.",
+                "popularity": 548.891,
+                "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
+                "vote_average": 8.2,
+                "vote_count": 2458
+            },
+            {
+                "backdrop_path": "/rQ5pOJBSqWoRf9evZHkL8rzUD4n.jpg",
+                "first_air_date": "1989-12-17",
+                "genre_ids": [
+                    10751,
+                    16,
+                    35
+                ],
+                "id": 456,
+                "name": "The Simpsons",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Simpsons",
+                "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+                "popularity": 539.41,
+                "poster_path": "/tubgEpjTUA7t0kejVMBsNBZDarZ.jpg",
+                "vote_average": 8,
+                "vote_count": 7967
+            },
+            {
+                "backdrop_path": "/uDegLR5lpVqSnnMSQaaF76BkcZQ.jpg",
+                "first_air_date": "2022-06-29",
+                "genre_ids": [
+                    16,
+                    10759,
+                    35,
+                    10762
+                ],
+                "id": 114466,
+                "name": "Baymax!",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Baymax!",
+                "overview": "Return to the fantastical city of San Fransokyo where the affable, inflatable, inimitable healthcare companion robot, Baymax, sets out to do what he was programmed to do: help others.",
+                "popularity": 407.361,
+                "poster_path": "/muzgYvvFniQnwiTdAvfMCEkHsT4.jpg",
+                "vote_average": 8.2,
+                "vote_count": 39
+            },
+            {
+                "backdrop_path": "/eGAOc17X55kIVjhPhflRbi8DrgF.jpg",
+                "first_air_date": "2022-06-06",
+                "genre_ids": [
+                    10766,
+                    35,
+                    18
+                ],
+                "id": 202740,
+                "name": "Lua de Mel",
+                "origin_country": [
+                    "PT"
+                ],
+                "original_language": "pt",
+                "original_name": "Lua de Mel",
+                "overview": "",
+                "popularity": 297.058,
+                "poster_path": "/8lIzd4bSU1xoWwcFihI3BzeWsz3.jpg",
+                "vote_average": 0,
+                "vote_count": 0
+            },
+            {
+                "backdrop_path": "/yqbTWmaP4fdnrbgwPQDHITktyOE.jpg",
+                "first_air_date": "2019-01-11",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 81356,
+                "name": "Sex Education",
+                "origin_country": [
+                    "GB"
+                ],
+                "original_language": "en",
+                "original_name": "Sex Education",
+                "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+                "popularity": 296.334,
+                "poster_path": "/8j12tohv1NBZNmpU93f47sAKBbw.jpg",
+                "vote_average": 8.4,
+                "vote_count": 5708
+            },
+            {
+                "backdrop_path": "/zbBNp4djy9dGOfMzVBQoP1ZAdET.jpg",
+                "first_air_date": "2017-06-19",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 72637,
+                "name": "Once",
+                "origin_country": [
+                    "AR"
+                ],
+                "original_language": "es",
+                "original_name": "O11CE",
+                "overview": "The series revolves around Gabo, a soccer-loving teenager who, upon receiving a scholarship from the prestigious Sports Academic Institute (IAD) of Buenos Aires, will see his dream of playing at Los Halcones Dorados, the renowned amateur team of the school, and also his longing to become a professional footballer.",
+                "popularity": 256.89,
+                "poster_path": "/d4vPg3QsTJJh6C5MHARTb5CyqOu.jpg",
+                "vote_average": 8.7,
+                "vote_count": 1129
+            },
+            {
+                "backdrop_path": "/8thc2UqR6Fg7iBCcco3M8LUhytl.jpg",
+                "first_air_date": "2004-10-04",
+                "genre_ids": [
+                    35,
+                    10766,
+                    18
+                ],
+                "id": 12637,
+                "name": "Rebelde",
+                "origin_country": [
+                    "MX"
+                ],
+                "original_language": "es",
+                "original_name": "Rebelde",
+                "overview": "Six teenagers with different lives and personalities attend a prominent private school with only one thing in common: their vocation and passion for music.",
+                "popularity": 254.059,
+                "poster_path": "/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg",
+                "vote_average": 8.4,
+                "vote_count": 4783
+            },
+            {
+                "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+                "first_air_date": "2010-09-06",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 31132,
+                "name": "Regular Show",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Regular Show",
+                "overview": "Two bored groundskeepers, Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) are best friends who spend their days trying to entertain themselves by any means necessary, much to the displeasure of their boss. Their everyday pursuits often lead to things spiraling out of control and into the surreal.",
+                "popularity": 247.194,
+                "poster_path": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+                "vote_average": 8.8,
+                "vote_count": 1483
+            },
+            {
+                "backdrop_path": "/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+                "first_air_date": "2013-12-02",
+                "genre_ids": [
+                    16,
+                    35,
+                    10765,
+                    10759
+                ],
+                "id": 60625,
+                "name": "Rick and Morty",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Rick and Morty",
+                "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+                "popularity": 219.243,
+                "poster_path": "/sGVCWtLG37mLOhl11qQVrjKsDzx.jpg",
+                "vote_average": 8.8,
+                "vote_count": 6504
+            },
+            {
+                "backdrop_path": "/wvdiTDDBxI0lix4Wbc2qePfgkA2.jpg",
+                "first_air_date": "2021-08-31",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 107113,
+                "name": "Only Murders in the Building",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Only Murders in the Building",
+                "overview": "Three strangers who share an obsession with true crime suddenly find themselves wrapped up in one.",
+                "popularity": 212.622,
+                "poster_path": "/ArsVbYhS6DiFJtRAlV8ytAauNlp.jpg",
+                "vote_average": 8.6,
+                "vote_count": 647
+            },
+            {
+                "backdrop_path": "/41neXsH222hV2zrsTyw8h7javon.jpg",
+                "first_air_date": "1997-08-13",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 2190,
+                "name": "South Park",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "South Park",
+                "overview": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+                "popularity": 210.54,
+                "poster_path": "/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg",
+                "vote_average": 8.3,
+                "vote_count": 3012
+            },
+            {
+                "backdrop_path": "/5hXn70jlkIunjk8qddY26m9ieUn.jpg",
+                "first_air_date": "2022-03-25",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 195623,
+                "name": "Mi Tío",
+                "origin_country": [
+                    "ES"
+                ],
+                "original_language": "es",
+                "original_name": "Mi Tío",
+                "overview": "The journey of an unemployed amateur musician who reluctantly agrees to take care of his young nephew.",
+                "popularity": 204.887,
+                "poster_path": "/sDPNwSe63WACVlHap7un6AgbqgO.jpg",
+                "vote_average": 7,
+                "vote_count": 34
+            },
+            {
+                "backdrop_path": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+                "first_air_date": "1999-01-31",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 1434,
+                "name": "Family Guy",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Family Guy",
+                "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+                "popularity": 201.395,
+                "poster_path": "/9RBeCo8QSaoJLmmuzlwzVH3Hi12.jpg",
+                "vote_average": 7.2,
+                "vote_count": 3299
+            }
+        ],
+        "total_pages": 940,
+        "total_results": 18789
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "cache-control": "public, max-age=600",
+        "content-type": "application/json;charset=utf-8"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {
+            "FormData": null
+        },
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "baseURL": "https://api.themoviedb.org/3",
+        "method": "get",
+        "url": "/discover/tv?api_key=9789405fbe9dba7fa1a67b6aa8ddad3f&with_genres=35"
+    },
+    "request": {}
+}
+
+
+{
+    "page": 1,
+    "results": [{
+            "backdrop_path": "/cKsmzu5YpayNxc6Gs9KD8wyJV8M.jpg",
+            "first_air_date": "2007-04-01",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 2942,
+            "name": "The Tudors",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Tudors",
+            "overview": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
+            "popularity": 35.718,
+            "poster_path": "/1ohemLJzAzDcO3aJXb0k46FiCx9.jpg",
+            "vote_average": 7.8,
+            "vote_count": 478
+        },
+        {
+            "backdrop_path": "/qcu7YongTlnNyXHGblVPMb440gB.jpg",
+            "first_air_date": "2015-02-09",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 62271,
+            "name": "Fool's Love",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "호구의 사랑",
+            "overview": "It's not easy being Ho Goo, a low-key guy who can neither score a date nor score high enough on his civil service exams, which he's failed 7 years running. But when he has a chance reunion with national swimming champion Do Hee, the most popular girl of his high school, his luck begins to change — perhaps for the worse. After staying out all night with Do Hee, Ho Goo experiences a rude awakening when he realizes that not only has Do Hee left him, she's also pregnant! ",
+            "popularity": 32.997,
+            "poster_path": "/nyQV7SvfYONIyzNgrC9kiBcc1il.jpg",
+            "vote_average": 7.2,
+            "vote_count": 5
+        },
+        {
+            "backdrop_path": "/c5COhVlpib13ivw5VvuImDxGUTV.jpg",
+            "first_air_date": "2015-10-12",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 64280,
+            "name": "5→9 From Five to Nine",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "5→9 〜私に恋したお坊さん〜",
+            "overview": "Junko Sakuraba dreams of working in New York, but she currently works as an English conversation teacher. She's about to have her 29th birthday. Junko Sakuraba works hard to achieve her dream, but New York seem far away. She has also not dated in a long time.\n\nJunko Sakuraba attends a funeral held at a temple. During the funeral, she makes a mistake and throws ashes onto a monk chanting a sutra. She feels apologetic and embarrassment.\n\nLater, Junko Sakuraba's family deceives her into going on a blind date. The man she meets on the blind date is Takane Hoshikawa. Her date is the monk whom she accidentally threw ashes on.",
+            "popularity": 29.929,
+            "poster_path": "/vk7XY0LCXGgcPU9vEb9yA6WZ0bR.jpg",
+            "vote_average": 8.2,
+            "vote_count": 11
+        },
+        {
+            "backdrop_path": "/cvaXVVVHi7TNv2HPJwQLTsoilbb.jpg",
+            "first_air_date": "2015-03-23",
+            "genre_ids": [
+                18,
+                10749,
+                36,
+                10766
+            ],
+            "id": 63109,
+            "name": "Moses and the Ten Commandments",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Os Dez Mandamentos",
+            "overview": "The story begins in the city of Pi-Ramesses, in Egypt, at approximately 1300 B.C, when the powerful pharaoh Seti, orders the death of every male newborn in his hatred of the Hebrew people. Amidst the horrors of mass infanticide, one brave Hebrew family defies Pharaoh`s command and hides their child in a basket set afloat on the river Nile, trusting that God would carry him to safety.",
+            "popularity": 27.127,
+            "poster_path": "/fQRLMWx39G3SBZSq8kVZ18bezBs.jpg",
+            "vote_average": 7.8,
+            "vote_count": 791
+        },
+        {
+            "backdrop_path": "/g8ZxwWAUbqWJUM2Xgeid1UitWbn.jpg",
+            "first_air_date": "2014-04-05",
+            "genre_ids": [
+                18,
+                10751,
+                10749
+            ],
+            "id": 63787,
+            "name": "Angel Eyes",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "엔젤 아이즈",
+            "overview": "Yoon Soo-wan and Park Dong-joo were each other's first loves, but were forced to separate due to painful family circumstances. Soo-wan, who had been blind, eventually undergoes an eye transplant surgery that restores her sight.\n\nTwelve years later, Soo-wan now works as an emergency rescue worker, while Dong-joo is a surgeon. They meet each other again. But Soo Wan is engaged to a Neurosurgeon, Kang Ji Woon. Knowing this, Park Dong Joo decided to keep quiet and not reveal his identity to Soo Wan and also decided to go back. Will Soo Wan realize that Doctor Dylan Park is her first love, Park Dong Joo? Will they end up together despite all the obstacles that they are going to face?",
+            "popularity": 25.627,
+            "poster_path": "/l4O5DMWL806Ty6RxxRDzYysvb2G.jpg",
+            "vote_average": 5.9,
+            "vote_count": 7
+        },
+        {
+            "backdrop_path": "/7Odgc3PdvRwIx7gvbePRk0vYvfF.jpg",
+            "first_air_date": "2015-04-27",
+            "genre_ids": [
+                18,
+                9648,
+                10749
+            ],
+            "id": 62511,
+            "name": "Who Are You: School 2015",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "후아유 - 학교 2015",
+            "overview": "After losing her memory in an accident, a bullied high school orphan finds herself in the place of an identical-looking girl who's gone missing.",
+            "popularity": 20.853,
+            "poster_path": "/snrF3YkSzsmUacDUtURKzZYZOfh.jpg",
+            "vote_average": 8.2,
+            "vote_count": 28
+        },
+        {
+            "backdrop_path": "/7rJdIXgHuRwEfH5IFaGrsp8MDx.jpg",
+            "first_air_date": "2015-09-16",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 63767,
+            "name": "She Was Pretty",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "그녀는 예뻤다",
+            "overview": "Ji Sung Joon has a crush on the most beautiful girl in town, Kim Hye Jin - the only problem is, he's unattractive and lacks self-esteem. As fate would have it, years later Sung Joon grows up to be not only successful, but extremely attractive. However, when he runs into his first love Hye Jin, she has become unattractive and poor. Can their love transcend the vanity they both associated with each other?",
+            "popularity": 18.979,
+            "poster_path": "/sIsUgKIFYAASpvvV5Aaip2xa7Zd.jpg",
+            "vote_average": 8.3,
+            "vote_count": 716
+        },
+        {
+            "backdrop_path": "/6ZrXfQSPiSL20a1GW4UXdYRuOk4.jpg",
+            "first_air_date": "2015-06-08",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 62863,
+            "name": "High Society",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "상류사회",
+            "overview": "Jang Yoon-Ha is the youngest daughter of a chaebol. Even though her family is extremely wealthy, she holds a part-time job at a food market. She hides her background as an heiress and attempts to find a man that loves her for herself.",
+            "popularity": 18.285,
+            "poster_path": "/rgQm6Afr15JPVQ5n1cXGLA5QkoV.jpg",
+            "vote_average": 8,
+            "vote_count": 11
+        },
+        {
+            "backdrop_path": "/47bsaGWuKKnJnGz3nJIZDTpvhuV.jpg",
+            "first_air_date": "2016-01-20",
+            "genre_ids": [
+                35,
+                10749,
+                18,
+                10751
+            ],
+            "id": 65187,
+            "name": "One More Happy Ending",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "한번 더 해피엔딩",
+            "overview": "Drama series depicts the story of marriage, remarriage and divorce. Han Mi Mo was once an idol group member, but she now works as a representative of a remarriage consulting business. She gives honest answers to her customers who hope to remarry. Song Soo Hyuk is a divorced man in his thirties with an 11-year-old son. He is a good-looking gossip reporter who looks like he is still in his twenties. He is very good at his job, because his looks and smiles melt the hearts of his interview subjects, and they are very willing to disclose even the deepest secrets. “One More Happy Ending” will deal with the stories of the divorced, who dream of becoming happy one more time.",
+            "popularity": 16.605,
+            "poster_path": "/i4ZrXTE2z48MCzBtRuBbFHb5jTi.jpg",
+            "vote_average": 5.9,
+            "vote_count": 7
+        },
+        {
+            "backdrop_path": "/1eoYJo8Tfjw70WvNO1GGpVT6T01.jpg",
+            "first_air_date": "2015-04-04",
+            "genre_ids": [
+                35,
+                16,
+                10749
+            ],
+            "id": 62601,
+            "name": "Rin-ne",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "境界のRINNE",
+            "overview": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy, but since then she has had the power to see ghosts. Now a teenager, she just wishes the ghosts would leave her alone! At school, the desk next to Sakura's has been empty since the start of the school year, then one day her always-absent classmate shows up, and he's far more than what he seems!",
+            "popularity": 13.836,
+            "poster_path": "/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+            "vote_average": 8.7,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/uvwSzRWNJLwJVRrci9z0ynBheoL.jpg",
+            "first_air_date": "2015-10-07",
+            "genre_ids": [
+                16,
+                35,
+                10749
+            ],
+            "id": 64552,
+            "name": "Shomin Sample",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "俺がお嬢様学校に「庶民サンプル」として拉致られた件",
+            "overview": "Kimito Kagurazaka is an ordinary high school boy who is kidnapped by an elite young lady's academy to be a \"sample of the common people.\" The school is full of sheltered girls who have never met male peers before.",
+            "popularity": 13,
+            "poster_path": "/bUCMLqtoYVywYcLu1XlxGGlRot5.jpg",
+            "vote_average": 8.7,
+            "vote_count": 134
+        },
+        {
+            "backdrop_path": "/ew9Gh9BkiM4TWnuh4CIdg1noqKP.jpg",
+            "first_air_date": "2013-05-20",
+            "genre_ids": [
+                18,
+                10749,
+                10766
+            ],
+            "id": 59599,
+            "name": "Trail of Lies",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Amor à Vida",
+            "overview": "Trail of Lies is a story of love and ambition centered on Paloma (Paolla Oliveira), who lives in conflict with her family. Secretly adopted, she learns the truth from her conniving brother Félix (Mateus Solano), who wishes to eliminate her at any cost in order to become sole heir to the fortune of their parents, doctors who own a hospital. The revelation comes during a trip to the astonishing historic cities of Peru, where Paloma falls in love with the adventurous Ninho (Juliano Cazarré).",
+            "popularity": 12.569,
+            "poster_path": "/dfWMQQo6IQVjdRM6zDrZz44l3mm.jpg",
+            "vote_average": 5.3,
+            "vote_count": 10
+        },
+        {
+            "backdrop_path": "/8YEghVWClg2GbrA6bcboyqPV73e.jpg",
+            "first_air_date": "2013-07-01",
+            "genre_ids": [
+                18,
+                10749,
+                10766
+            ],
+            "id": 58929,
+            "name": "Head over Heels",
+            "origin_country": [
+                "MX"
+            ],
+            "original_language": "es",
+            "original_name": "De que te quiero, te quiero",
+            "overview": "",
+            "popularity": 9.666,
+            "poster_path": "/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "backdrop_path": "/ijcoCucx8bNf7BUpJyHwMMNW0Ww.jpg",
+            "first_air_date": "2011-07-08",
+            "genre_ids": [
+                16,
+                35,
+                10749
+            ],
+            "id": 46169,
+            "name": "Mayo Chiki!",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "まよチキ!",
+            "overview": "Sakamachi Kinjiro discovers that the most popular student in their school, Subaru Konoe—the butler of the headmaster’s daughter, Kanade Suzutsuki—is actually a girl.",
+            "popularity": 9.53,
+            "poster_path": "/3l2nxOT9wcdDXXHFPvjhVxxvHJw.jpg",
+            "vote_average": 7,
+            "vote_count": 27
+        },
+        {
+            "backdrop_path": "/gjt9GqnENFt1keiPUz7CS2xORWs.jpg",
+            "first_air_date": "2012-10-07",
+            "genre_ids": [
+                16,
+                18,
+                10749
+            ],
+            "id": 52878,
+            "name": "Say \"I Love You.\"",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "好きっていいなよ。",
+            "overview": "Friends suck, and trusting someone is just setting yourself up. That's the lesson Mei Tachibana learned after her heart was ripped out and only a shell was left where a girl used to be. But unlike so many, she found an easy solution: she'll never make another friend. Ever. Okay, maybe that's not as easy as it sounds, but it's worked for Mei. Or at least it did. Until handsome, charming and annoyingly popular Yamato Kurosawa came along. Because for some freakish reason, he seems to like Mei. He even gave her his phone number! As if she would ever call him. Except she did. But only because she needed help. Still, he came. He actually came. And now things are getting way too complicated. Mei's no princess in a tower. She's not waiting for a knight in shining armor to rescue her. So why did he have to kiss her and confuse everything? And why are those three little words so hard to say? Between heartbeats, behind trembling lips, and unspoken with every breath, the specter of betrayals past, future and present now haunt them both in SAY \"I LOVE YOU.\"",
+            "popularity": 9.333,
+            "poster_path": "/jCTTTaVz2a6f7T9mvJu5zQgxMEU.jpg",
+            "vote_average": 7.5,
+            "vote_count": 43
+        },
+        {
+            "backdrop_path": "/rK8li14qmEtnHE4tj6nM9GrdJdQ.jpg",
+            "first_air_date": "2012-10-01",
+            "genre_ids": [
+                36,
+                10749
+            ],
+            "id": 45049,
+            "name": "The King's Doctor",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "마의",
+            "overview": "The King's Doctor is a 2012 South Korean television series, starring Jo Seung-woo and Lee Yo-won. It aired on Munhwa Broadcasting Corporation from October 1, 2012 to March 25, 2013 on Mondays and Tuesdays at 21:55 for 50 episodes. The drama commemorated MBC's 51st anniversary.\n\nThe historical/period epic was directed by Lee Byung-hoon, known for his previous works Hur Jun, Jewel in the Palace, Yi San and Dong Yi. This marked the first television drama for actor Jo Seung-woo in his 13-year film and stage career.",
+            "popularity": 9.317,
+            "poster_path": "/w7N9OBb7k1xL9WocZYeQssQtviG.jpg",
+            "vote_average": 9,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/4XhCA0UoGMz6RJw6LBwwGeNgwQ0.jpg",
+            "first_air_date": "2012-07-06",
+            "genre_ids": [
+                18,
+                16,
+                35,
+                10749
+            ],
+            "id": 45277,
+            "name": "Nakaimo: My Little Sister Is Among Them!",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "この中に１人、妹がいる！",
+            "overview": "Is insanity hereditary? Shougo Mikadono's beginning to think so, because the terms of his late father's will seem crazy and following them may drive Shougo bonkers as well. Oh, it sounds simple at first: before Shougo can claim his VERY large inheritance, he just has to start attending a certain new school and find a nice girl to marry.\n\nIt's a little unromantic, but perfectly do-able, right? After all, all the girls seem quite friendly, so all Shougo has to do is find one he has something in common with. Except, and here's the kicker, it turns out that Shougo has WAY too much in common with one of them, because she's actually his long-lost sister! And he has no idea which one she is!\n\nWill Shougo meet and court his Miss Right without committing something very morally wrong? Can he find his future bride without slipping into the wrong set of genes? And if his little sister does reveal herself, just how much will be revealed and under what circumstances?",
+            "popularity": 8.771,
+            "poster_path": "/y7U5YwTl88pUb5lr9xecPfPIc1S.jpg",
+            "vote_average": 6.9,
+            "vote_count": 13
+        },
+        {
+            "backdrop_path": "/vExUmiMoYXvoGYPBohosZySnseZ.jpg",
+            "first_air_date": "2012-10-05",
+            "genre_ids": [
+                16,
+                35,
+                10749
+            ],
+            "id": 62696,
+            "name": "OniAi",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "お兄ちゃんだけど愛さえあれば関係ないよねっ",
+            "overview": "Adorable young Akiko is thrilled to be reuniting with Akito, the handsome older brother she hasn’t seen in years! In fact, she might be a little too excited about living under the same roof with her precious big bro. This pint-sized cutie has a serious brother complex, and she’s definitely not interested in sharing his attention. Unfortunately for little sister, she and Akito won’t be living alone: three gorgeous girls from the student council will be along for the ride! So much for the peaceful existence Akito was craving. Big Brother the dreamy will have to stay on his toes to avoid the advances of Sis and her ravishing rivals!",
+            "popularity": 8.707,
+            "poster_path": "/gHaRoBJfNhzbzq6B0R4Gn4nq1lc.jpg",
+            "vote_average": 7.2,
+            "vote_count": 8
+        },
+        {
+            "backdrop_path": "/x4aOlHVSV8tUNLbFYEpzmkn9PYU.jpg",
+            "first_air_date": "2013-08-05",
+            "genre_ids": [
+                18,
+                10751,
+                10749
+            ],
+            "id": 64826,
+            "name": "Love in Her Bag",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "그녀의 신화",
+            "overview": "Despite her poverty and lack of education or connections, bright and plucky Eun Jung-soo works her way up in the luxury handbag industry based on sheer talent alone. She encounters Do Jin-hoo, the smart and handsome chaebol heir of a fashion company, and Kim Seo-hyun who has to hide her true identity in order to achieve her dreams.",
+            "popularity": 8.475,
+            "poster_path": "/gq8j27c1UfKlN2VfbX9oHJZyvJM.jpg",
+            "vote_average": 7.2,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/ej3VNHk4sIb88yIfL6QymHdDbOg.jpg",
+            "first_air_date": "2015-04-03",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 62267,
+            "name": "Beating Again",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "순정에 반하다",
+            "overview": "After his uncle's unjust takeover of the family company, Kang Min Ho grows up to be a successful, if not cynical investor who only cares about money. But when he undergoes a sudden heart transplant surgery, Min Ho literally has a change of heart when he inherits a warm and compassionate heart. In the midst of seeing the world anew, including falling for the kind Kim Soon Jung, Min Ho must mitigate his newfound personality with the demands of his cutthroat career.",
+            "popularity": 8.32,
+            "poster_path": "/2BZknHHXDOUxE5qifjDRLMbaXq7.jpg",
+            "vote_average": 7.6,
+            "vote_count": 120
+        }
+    ],
+    "total_pages": 11,
+    "total_results": 203
+}
+
+
+{
+    "page": 1,
+    "results": [{
+            "adult": false,
+            "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 278,
+            "original_language": "en",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "popularity": 74.421,
+            "poster_path": "/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+            "release_date": "1994-09-23",
+            "title": "The Shawshank Redemption",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 21715
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 19404,
+            "original_language": "hi",
+            "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+            "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+            "popularity": 20.408,
+            "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+            "release_date": "1995-10-19",
+            "title": "Dilwale Dulhania Le Jayenge",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 3700
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 238,
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+            "popularity": 64.742,
+            "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "release_date": "1972-03-14",
+            "title": "The Godfather",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 16178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 424,
+            "original_language": "en",
+            "original_title": "Schindler's List",
+            "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "popularity": 38.228,
+            "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_date": "1993-11-30",
+            "title": "Schindler's List",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 12906
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather: Part II",
+            "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "popularity": 42.239,
+            "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+            "release_date": "1974-12-20",
+            "title": "The Godfather: Part II",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 9757
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "id": 667257,
+            "original_language": "es",
+            "original_title": "Cosas imposibles",
+            "overview": "A widow who is tormented by the memory of her abusive husband befriends a young man.",
+            "popularity": 15.862,
+            "poster_path": "/eaf7GQj0ieOwm08rrvjJQNbN0kN.jpg",
+            "release_date": "2021-06-17",
+            "title": "Impossible Things",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hZth9NCeXvvO7Xi98d8q34e1Ier.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 129,
+            "original_language": "ja",
+            "original_title": "千と千尋の神隠し",
+            "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+            "popularity": 82.738,
+            "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+            "release_date": "2001-07-20",
+            "title": "Spirited Away",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 13009
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3RMLbSEXOn1CzLoNT7xFeLfdxhq.jpg",
+            "genre_ids": [
+                10749,
+                16
+            ],
+            "id": 372754,
+            "original_language": "ja",
+            "original_title": "同級生",
+            "overview": "Rihito Sajo, an honor student with a perfect score on the entrance exam and Hikaru Kusakabe, in a band and popular among girls, would have never crossed paths. Until one day they started talking at the practice for their school’s upcoming chorus festival. After school, the two meet regularly, as Hikaru helps Rihito to improve his singing skills. While they listen to each other’s voice and harmonize, their hearts start to beat together.",
+            "popularity": 9.82,
+            "poster_path": "/cIfRCA5wEvj9tApca4UDUagQEiM.jpg",
+            "release_date": "2016-02-20",
+            "title": "Dou kyu sei – Classmates",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+            "genre_ids": [
+                10749,
+                16,
+                18
+            ],
+            "id": 372058,
+            "original_language": "ja",
+            "original_title": "君の名は。",
+            "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+            "popularity": 160.558,
+            "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+            "release_date": "2016-08-26",
+            "title": "Your Name.",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 8845
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w2uGvCpMtvRqZg6waC1hvLyZoJa.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 696374,
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno",
+            "overview": "An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel's Inferno is a captivating and wildly passionate tale of one man's escape from his own personal hell as he tries to earn the impossible--forgiveness and love.",
+            "popularity": 11.667,
+            "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+            "release_date": "2020-05-29",
+            "title": "Gabriel's Inferno",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 2259
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+            "genre_ids": [
+                35,
+                53,
+                18
+            ],
+            "id": 496243,
+            "original_language": "ko",
+            "original_title": "기생충",
+            "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+            "popularity": 56.372,
+            "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "release_date": "2019-05-30",
+            "title": "Parasite",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 13931
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 389,
+            "original_language": "en",
+            "original_title": "12 Angry Men",
+            "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+            "popularity": 21.796,
+            "poster_path": "/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+            "release_date": "1957-04-10",
+            "title": "12 Angry Men",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 6502
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jtAI6OJIWLWiRItNSZoWjrsUtmi.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 724089,
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno: Part II",
+            "overview": "Professor Gabriel Emerson finally learns the truth about Julia Mitchell's identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another's arms?",
+            "popularity": 14.676,
+            "poster_path": "/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+            "release_date": "2020-07-31",
+            "title": "Gabriel's Inferno: Part II",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 1418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg",
+            "genre_ids": [
+                14,
+                18,
+                80
+            ],
+            "id": 497,
+            "original_language": "en",
+            "original_title": "The Green Mile",
+            "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+            "popularity": 60.955,
+            "poster_path": "/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+            "release_date": "1999-12-10",
+            "title": "The Green Mile",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 14095
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v5CEt88iDsuoMaW1Q5Msu9UZdEt.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 730154,
+            "original_language": "ja",
+            "original_title": "きみの瞳が問いかけている",
+            "overview": "A tragic accident lead to Kaori's blindness, but she clings to life and the smaller pleasures it can still afford her. She meets Rui and begins to talk to him. Rui was once a promising kickboxer, but something happened in his past. Kaori's smile brings out a change in Rui. However, the two are connected in more than one way. Rui attempts to do what is right.",
+            "popularity": 55.299,
+            "poster_path": "/cVn8E3Fxbi8HzYYtaSfsblYC4gl.jpg",
+            "release_date": "2020-10-23",
+            "title": "Your Eyes Tell",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 329
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lp6SmwyNRspEYkkLXFEVuNlCw77.jpg",
+            "genre_ids": [
+                16,
+                14,
+                10749,
+                18
+            ],
+            "id": 533514,
+            "original_language": "ja",
+            "original_title": "劇場版 ヴァイオレット・エヴァーガーデン",
+            "overview": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
+            "popularity": 21.747,
+            "poster_path": "/bajajkoErDst0JxdFyBkABiF9rW.jpg",
+            "release_date": "2020-09-18",
+            "title": "Violet Evergarden: The Movie",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 243
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+            "genre_ids": [
+                18,
+                28,
+                80,
+                53
+            ],
+            "id": 155,
+            "original_language": "en",
+            "original_title": "The Dark Knight",
+            "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+            "popularity": 71.163,
+            "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "release_date": "2008-07-14",
+            "title": "The Dark Knight",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 27815
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fQq1FWp1rC89xDrRMuyFJdFUdMd.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 761053,
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno: Part III",
+            "overview": "The final part of the film adaption of the erotic romance novel Gabriel's Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.",
+            "popularity": 45.103,
+            "poster_path": "/uqmTxOP3gNl5MWRt1wlrUnzTphM.jpg",
+            "release_date": "2020-11-19",
+            "title": "Gabriel's Inferno: Part III",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 972
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 680,
+            "original_language": "en",
+            "original_title": "Pulp Fiction",
+            "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+            "popularity": 58.829,
+            "poster_path": "/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+            "release_date": "1994-09-10",
+            "title": "Pulp Fiction",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 23381
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 429,
+            "original_language": "it",
+            "original_title": "Il buono, il brutto, il cattivo",
+            "overview": "While the Civil War rages between the Union and the Confederacy, three men – a quiet loner, a ruthless hit man and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+            "popularity": 33.839,
+            "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+            "release_date": "1966-12-23",
+            "title": "The Good, the Bad and the Ugly",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 6704
+        }
+    ],
+    "total_pages": 506,
+    "total_results": 10103
+}

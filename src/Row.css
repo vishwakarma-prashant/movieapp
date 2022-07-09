@@ -1,0 +1,59 @@
+.main {
+    position: relative;
+}
+
+.main-row {
+    display: flex;
+    margin-top: 25px;
+}
+
+.head {
+    top: 0;
+    width: 100vw;
+    position: fixed;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.card {
+    background-color: #fbfbfb;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 4px;
+    border-radius: 6px;
+    transition: ease 0.1s;
+}
+
+.card:hover {
+    transform: scale(1.09, 1.05);
+    cursor: pointer;
+}
+
+.poster-movie {
+    width: 180px;
+    object-fit: contain;
+    margin: 3px 5px;
+    border-radius: 1px;
+}
+
+.title-movie {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+@media screen and (max-width:600px) {
+    .poster-movie {
+        width: 180px;
+        object-fit: contain;
+        margin: 3px 5px;
+        border-radius: 0.4px;
+    }
+    .card {
+        border-radius: 0.8px;
+    }
+}
