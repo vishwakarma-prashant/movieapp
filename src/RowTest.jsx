@@ -63,7 +63,7 @@ const RowTest = ({title ,fetchUrl ,largeRow}) => {
 
      <div className='main'>
 
-        {movies.map((movie)=>(
+        {movies.map((movie)=>( 
 
              <div className="main-card"  key={movie.name}>
                 
@@ -78,11 +78,14 @@ const RowTest = ({title ,fetchUrl ,largeRow}) => {
     </div>
 
            {trailerURL && <YouTube videoId={trailerURL} opts={opts}/>}
+           
     </div>
   )
 }
 }
 export default RowTest
+
+/**this is how add  */
 
 
 
